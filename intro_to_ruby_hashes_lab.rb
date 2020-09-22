@@ -38,6 +38,7 @@ end
 def monopoly_with_fourth_tier
 
 monopoly_with_fourth_tier = {
+    
     :railroads => {
     
     :rent_in_dollars => {:one_piece_owned => 25,
